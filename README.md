@@ -18,4 +18,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # Resultado
 ## funcionamento
-![Resultado do projeto](./img.jpg.png)
+![Resultado do projeto](./img/img.png)
