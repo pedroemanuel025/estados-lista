@@ -1,0 +1,20 @@
+.card-estado {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+}
+
+.card-estado h2 {
+    margin: 0;
+    font-size: 30px;
+}
+
+.card-estado h3 {
+    margin: 10px 0;
+}
+
+.card-estado p {
+    margin: 0;
+}
